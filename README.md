@@ -1,12 +1,12 @@
-# 🌍 Family Travel Tracker
+# 🌍 Travel Tracker
 
-A full-stack web app to track the countries visited by different family members. Each person can add their own list of visited countries, and the countries will be highlighted on a world map with their selected color.
+A full-stack web app to track the countries visited by different family members and friends. Each person can add their own list of visited countries, and the countries will be highlighted on a world map with their selected color.
 
 ---
 
 ## 🚀 Features
 
-- Add multiple family members
+- Add multiple family members and friends
 - Assign a unique color to each member
 - Add countries visited by typing the country name
 - Visually highlights the visited countries on a world SVG map
