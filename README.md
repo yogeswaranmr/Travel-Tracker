@@ -41,7 +41,7 @@ Create a database named world
 Run the SQL file:
 
 ```bash
-psql -U postgres -d world -f queries.sql
+psql -U postgres -d world -f query.sql
 ```
 
 ### 4. Start the server
@@ -50,3 +50,17 @@ psql -U postgres -d world -f queries.sql
 nodemon index.js
 ```
 
+## 📂 Project Structure
+```
+Travel-Tracker/
+├── index.js
+├── query.sql
+├── views/
+│   ├── index.ejs
+│   └── new.ejs
+├── public/
+│   └── styles/
+│       ├── main.css
+│       └── new.css
+└── README.md   
+```
