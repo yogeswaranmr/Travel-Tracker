@@ -50,6 +50,12 @@ or
 node index.js
 ```
 
+### 5. Access the App
+Open your browser and visit:
+```bash
+http://localhost:3000
+```
+
 ## 📂 Project Structure
 ```
 Travel-Tracker/
