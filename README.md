@@ -43,7 +43,7 @@ npm install
   ```bash
   psql -U postgres -d world -f queries.sql
   ```
-    or by
+    or by:
   - Copy queries from "query.sql" and paste it the "Query Tool" and run it.
 
 ### 4. Start the server
