@@ -37,12 +37,8 @@ npm install
 ```
 ### 3. Set up PostreSQL database
 Make sure PostgreSQL is installed and running.
-Create a database named "world"
-Run the SQL file:
-
-```bash
-psql -U postgres -d world -f query.sql
-```
+Create a database named "world".
+Copy paste queries in "query.sql" then run it.
 
 ### 4. Start the server
 
