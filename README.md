@@ -35,7 +35,7 @@ cd Travel-Tracker
 ```bash
 npm install
 ```
-### 3. Set up PostresSQL database
+### 3. Set up PostreSQL database
 Make sure PostgreSQL is installed and running.
 Create a database named world
 Run the SQL file:
