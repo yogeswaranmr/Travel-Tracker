@@ -49,6 +49,10 @@ psql -U postgres -d world -f query.sql
 ```bash
 nodemon index.js
 ```
+or
+```
+node index.js
+```
 
 ## 📂 Project Structure
 ```
