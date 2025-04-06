@@ -41,7 +41,7 @@ npm install
 - Create tables by:
   - Run the SQL file:
   ```bash
-  psql -U postgres -d world -f queries.sql
+  psql -U postgres -d world -f query.sql
   ```
     or by:
   - Copy queries from "query.sql" and paste it the "Query Tool" and run it.
