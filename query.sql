@@ -9,7 +9,8 @@ color VARCHAR(15)
 CREATE TABLE visited_countries(
 id SERIAL PRIMARY KEY,
 country_code CHAR(2) NOT NULL,
-user_id INTEGER REFERENCES users(id)
+user_id INTEGER REFERENCES users(id),
+UNIQUE(user_id,country_code)
 );
 
 INSERT INTO users (name, color)
