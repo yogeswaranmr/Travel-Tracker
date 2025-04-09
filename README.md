@@ -35,7 +35,9 @@ cd Travel-Tracker
 ```bash
 npm install
 ```
+
 ### 3. Set up PostreSQL database
+
 - Make sure PostgreSQL is installed and running.
 - Create a database named "world".
 - Create tables by:
@@ -57,6 +59,7 @@ node index.js
 ```
 
 ### 5. Access the App
+
 Open your browser and visit:
 ```bash
 http://localhost:3000
